@@ -4,4 +4,5 @@ This is the first commit from the main branch
 
 ###
 
-developer updating the exsist code
+*   developer updating the exsist code
+*   after updating the code he will push the code in to git
