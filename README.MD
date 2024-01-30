@@ -16,4 +16,5 @@ This is the first commit from the main branch
 
 *  started development
 *  adding new_code
-*  still developing the code 
+*  still developing the code
+*  development is completed. 
